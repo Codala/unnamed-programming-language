@@ -6,6 +6,7 @@
 
 -   easy to use/learn, simple?
 -   replacement for js/py
+-   full of features 
 
 ## Features:
 
